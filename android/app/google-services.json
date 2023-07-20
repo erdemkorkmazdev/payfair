@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "860182680190",
+    "project_id": "payfair",
+    "storage_bucket": "payfair.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860182680190:android:b6da9a9476f5703e537e2f",
+        "android_client_info": {
+          "package_name": "com.example.bitirme_proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860182680190-ti977ksjhi8i33mlsr6kkokcfs7ummfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYr__-GIdeigysm_OLE0kjZI1Sfasi-D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860182680190-ti977ksjhi8i33mlsr6kkokcfs7ummfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860182680190-r6nputnmel9s66rtmv7b2us6k3cj1639.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bitirmeProje"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860182680190:android:9b1b5564911b34db537e2f",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860182680190-ti977ksjhi8i33mlsr6kkokcfs7ummfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYr__-GIdeigysm_OLE0kjZI1Sfasi-D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860182680190-ti977ksjhi8i33mlsr6kkokcfs7ummfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860182680190-r6nputnmel9s66rtmv7b2us6k3cj1639.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bitirmeProje"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
