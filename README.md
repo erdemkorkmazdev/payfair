@@ -7,7 +7,6 @@ The PayFair application aims to solve the common calculation confusion that aris
 - The scanning process in our application is performed using Optical Character Recognition (OCR) technology.
 - Tesseract is used among the Optical Character Recognition (OCR) libraries.
 - The application maintains a data log using the Firebase database, a service provided by Google.
-- 
 
 ![PayFair1](https://github.com/erdemkorkmazdev/payfair/assets/98043504/6e7eb14c-4ed4-4b41-8f32-2e7300a16fbe)
 ![PayFair2](https://github.com/erdemkorkmazdev/payfair/assets/98043504/27d9a3c8-ff78-42e0-8da8-c5f300eb1a59)
@@ -18,7 +17,3 @@ The PayFair application aims to solve the common calculation confusion that aris
 ![PayFair7](https://github.com/erdemkorkmazdev/payfair/assets/98043504/dbdf4c17-5c01-43ad-9a76-11c1f3985c31)
 ![image](https://github.com/erdemkorkmazdev/payfair/assets/98043504/42059f53-3026-4f79-a140-f6f4965649af)
 ![PayFair8](https://github.com/erdemkorkmazdev/payfair/assets/98043504/38bdc031-f27b-4eea-b238-67cf4613a20a)
-
-
-
-
